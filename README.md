@@ -1,5 +1,3 @@
-gtest使用参考链接 https://www.cnblogs.com/coderzh/archive/2009/04/06/1426758.html
-
 
 # GoogleTest
 
